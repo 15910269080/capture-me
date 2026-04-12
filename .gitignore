@@ -1,1 +1,13 @@
-node_modules
+node_modules/
+.DS_Store
+*.log
+*.db
+*.backup*
+*.sqlite
+logs/
+memory/*.md
+memory/*.json
+sqlite/
+queue/
+*.env
+.env.local
